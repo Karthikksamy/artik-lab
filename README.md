@@ -1,2 +1,4 @@
 # artik-lab
-This repository contains the same sources for ARTIK lab demo.
+This repository contains sample sources used for the demonstrating Artik cloud access from Artik platform, uing node.js 
+
+
